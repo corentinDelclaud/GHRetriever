@@ -113,3 +113,5 @@ If you use this repository, please cite the original G-Retriever paper
 ```
 
 I reuse a lot of the Original README
+
+Create an .env with "HF_TOKEN=...   " to use huggingface
